@@ -50,6 +50,6 @@ Ideal for:
 
 ## 🛠️ Created By
 
-[Your Name] – GRC / Cloud Security  
+Muhammad Rabiu – GRC / Cloud Security  
 Old Dominion University · Cybersecurity & AI Governance Focus  
-[LinkedIn URL]  
+linkedin.com/in/muhammad-rabiu-57b6631bb 
