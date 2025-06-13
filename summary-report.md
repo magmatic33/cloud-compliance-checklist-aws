@@ -1,8 +1,7 @@
 # AWS SOC 2 Compliance – Summary Report
 
 **Project Title:** AWS SOC 2 Compliance Checklist  
-**Prepared By:** [Your Name]  
-**Date:** [Insert Date]
+
 
 ---
 
