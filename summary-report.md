@@ -41,9 +41,3 @@ This report documents the configuration of AWS services to align with the SOC 2 
 - AWS_SOC2_Compliance_Checklist.xlsx
 - README.md
 - Screenshots folder
-
----
-
-Prepared by: [Your Name]  
-LinkedIn: [Insert URL]  
-Email: [Insert Email]
